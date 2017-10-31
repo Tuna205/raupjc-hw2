@@ -1,0 +1,7 @@
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak1\obj\Debug\Zadatak1.csprojResolveAssemblyReference.cache
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak1\bin\Debug\Zadatak1.exe
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak1\obj\Debug\Zadatak1.exe
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak1\obj\Debug\Zadatak1.pdb
