@@ -1,0 +1,16 @@
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak3\bin\Debug\Zadatak3.dll
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak3\bin\Debug\Zadatak3.pdb
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak3\bin\Debug\Zadatak2.dll
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak3\bin\Debug\Zadatak2.pdb
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak3\bin\Debug\RaupjcHW1-zad3.pdb
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak3\obj\Debug\Zadatak3.csprojResolveAssemblyReference.cache
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak3\obj\Debug\Zadatak3.csproj.CoreCompileInputs.cache
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak3\obj\Debug\Zadatak3.dll
+C:\Users\tuna2\Source\Repos\RaupjcDZ2\Zadatak3\obj\Debug\Zadatak3.pdb
