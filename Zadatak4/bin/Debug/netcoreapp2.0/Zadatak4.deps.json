@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Zadatak4/1.0.0": {
+        "dependencies": {
+          "Zadatak1": "1.0.0",
+          "Zadatak2": "1.0.0"
+        },
+        "runtime": {
+          "Zadatak4.dll": {}
+        }
+      },
+      "Zadatak1/1.0.0": {
+        "runtime": {
+          "Zadatak1.exe": {}
+        }
+      },
+      "Zadatak2/1.0.0": {
+        "runtime": {
+          "Zadatak2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zadatak4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zadatak1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zadatak2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
